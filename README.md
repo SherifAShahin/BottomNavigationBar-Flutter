@@ -2,7 +2,7 @@
 Hi, here you will find a bottomNavigationBar - flutter - dart  
 
 # Note
-I have used HexColor package, from https://pub.dev/packages/hexcolor/install 
+I have used HexColor package, from https://pub.dev/packages/hexcolor/install   
 and ionicons package, from https://pub.dev/packages/ionicons/install  
 you have to install them first to avoid any error  
 
